@@ -1,0 +1,31 @@
+.mainTitle {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 68px;
+    color: #FFFFFF;
+    opacity: 0.87;
+    text-align: left;
+}
+
+.mainText {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #B8B8B8;
+    text-align: left;
+}
+
+.mainSubtitle {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.sectionName {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFB577;
+}
